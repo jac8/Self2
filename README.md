@@ -1,5 +1,5 @@
 # <p align="center">[BoyCode](https://instagram.com/EhsanFox_Programmer)
-## <p align="center">[Self-Bot](https://Github.com/EhsanFox/Self-Bot)
+## <p align="center">[Self-Bot-V2](https://Github.com/EhsanFox/Self-Bot-V2)
 
 Base In MutePuker | Taylor
 
@@ -13,9 +13,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 # Let's install the Self-Bot.
 cd $HOME
 git clone https://github.com/EhsanFox/Self-Bot
-cd Self-Bot
-git clone https://github.com/EhsanFox/tg
-# dont change this becuse its tg of Self-Bot with supprting HTML 
+cd Self-Bot 
 cd tg
 make
 ./configure
