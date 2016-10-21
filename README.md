@@ -36,5 +36,5 @@ chmod +x launch.sh
 # <p align="center">Contact Me
 
 Telegram : [@BoyCode](https://telegram.me/BoyCode)
-Instagram : [EhsanFox_Programmer](https://instagram.com/EhsanFox_Programmer)
+Instagram : [EhsanFox_Programmer](https://instagram.com/BoyCodeOfficial)
 Reports Humens In Telegram : [BoyCode-Chat](https://telegram.me/joinchat/CL3iKEGF5WRxDa4wyUUjmQ)
