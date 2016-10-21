@@ -1,7 +1,7 @@
 # <p align="center">[BoyCode](https://instagram.com/EhsanFox_Programmer)
 ## <p align="center">[Self-Bot-V2](https://Github.com/EhsanFox/Self-Bot-V2)
 
-Base In MutePuker | Taylor
+<h1>Base In MutePuker | Taylor</h1>
 
 # <p align="center">How Run?
 
@@ -33,8 +33,8 @@ chmod +x launch.sh
 
 ```
 
-# <p align="center">Contact Me
+# <h1><p align="center">Contact Me</h1>
 
-Telegram : [@BoyCode](https://telegram.me/BoyCode)
-Instagram : [EhsanFox_Programmer](https://instagram.com/BoyCodeOfficial)
-Reports Humens In Telegram : [BoyCode-Chat](https://telegram.me/joinchat/CL3iKEGF5WRxDa4wyUUjmQ)
+<h1>Telegram :</h1> [@BoyCode](https://telegram.me/BoyCode)
+<h1>Instagram :</h1> [EhsanFox_Programmer](https://instagram.com/BoyCodeOfficial)
+<h1>Reports Humens In Telegram :</h1> [BoyCode-Chat](https://telegram.me/joinchat/CL3iKEGF5WRxDa4wyUUjmQ)
